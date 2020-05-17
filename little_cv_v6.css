@@ -1,0 +1,66 @@
+ body
+{
+	
+	
+	flex-direction : column;
+}
+
+h3
+{	
+	font-size : 15px;		
+}
+
+p
+{
+	font-size : 11px;
+
+}
+
+.premierePartie
+{
+
+	max-width : 460px;
+		
+}
+.conteneurHead {
+	height: 200px;	
+}
+
+
+
+.elementLigne {
+	
+	justify-content: flex-start;
+	flex-direction: column;
+	margin: 20px;
+	
+}
+.left
+{
+
+margin : 5px;
+}
+.center
+{
+
+margin : 5px;
+}
+.right
+{
+	
+	margin : 5px;
+}
+
+
+.deuxiemePartie {
+	max-width: 460px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	padding: 0;
+}
+
+
+
+
+
