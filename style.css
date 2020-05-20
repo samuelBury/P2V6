@@ -38,7 +38,7 @@ h3
 }
 p
 {
-	font-size : 14px;
+	font-size : 18px;
 
 }
 .gras
@@ -120,14 +120,14 @@ p
 	
 }
 
-.conteneurTitreArticle2
+.conteneurTitreArticleLeft
 {
 	display :flex;
 	justify-content : center;
 	background-color : black;
 	color : #FFC107;
 }
-.element2
+.elementLeft
 {
 	display : flex;
 	padding : 27px;
@@ -136,14 +136,14 @@ p
 {
 	margin-top : 60px;
 }
-.conteneurIcone2
+.conteneurIconeLeft
 {
 	height : 163px;
 	display : flex;
 	justify-content: space-around;
 	align-items :center; 
 }				
-div.conteneurIcone2>i
+div.conteneurIconeLeft>i
 {
 	
 	font-size: 52px;
