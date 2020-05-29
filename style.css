@@ -32,6 +32,9 @@ h3
 	font-size : 20px;
 	margin: 0;		
 }
+h4{
+	margin: 0;
+}
 .souligner
 {
 	border-bottom : #FFC107 2px solid;
@@ -125,8 +128,10 @@ p
 {
 	display :flex;
 	justify-content : center;
+	align-items : center;
 	background-color : black;
 	color : #FFC107;
+	height: 40px;
 }
 .elementLeft
 {
