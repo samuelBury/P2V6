@@ -151,3 +151,6 @@ div.conteneurIconeLeft>i
     border-radius: 50%;
     padding: 0.3rem;
 }
+ul {
+list-style-type: none;
+}
