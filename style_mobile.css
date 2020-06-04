@@ -57,7 +57,8 @@ width : inherit;
 	box-sizing: border-box;
 	padding: 0;
 }
-
+.alignement{
+flex-direction: column;}
 
 
 
